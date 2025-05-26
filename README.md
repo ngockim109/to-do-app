@@ -42,7 +42,7 @@ To run the app locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ngockim109/todo-app.git
+git clone https://github.com/ngockim109/to-do-app.git
 cd todo-app
 
 # Install dependencies
