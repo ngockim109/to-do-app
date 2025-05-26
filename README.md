@@ -43,7 +43,7 @@ To run the app locally:
 ```bash
 # Clone the repository
 git clone https://github.com/ngockim109/to-do-app.git
-cd todo-app
+cd to-do-app
 
 # Install dependencies
 npm install
